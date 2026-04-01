@@ -3,6 +3,8 @@
 http://8.243.126.131:8000/play/a001/index.m3u8
 #EXTINF:0,02-AMERICA HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
+#EXTINF:0,02-AMERICA HD 1
+http://148.222.230.144:8000/play/a0ba/index.m3u8
 #EXTINF:0,03-PANAMERICANA
 http://8.243.126.131:8000/play/a01r/index.m3u8
 #EXTINF:0,18-ATV HD
@@ -46,7 +48,7 @@ http://190.117.20.39:8000/play/a0ay/index.m3u8
 #EXTINF:0,39-DIRECTV DEPORTE
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0,39-DIRECTV DEPORTE 2
-http://redworld.pro:8880/live/Melisa01/W5wXFMwknDcC/428667.ts
+http://xpaneltv.com:8080/live/AndyTor/648210977/79817.ts
 #EXTINF:0,39-DIRECTV DEPORTE +
 http://redworld.pro:8880/live/Melisa01/W5wXFMwknDcC/428668.ts
 #EXTINF:0,16-IPE HD
