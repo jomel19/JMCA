@@ -37,17 +37,25 @@ http://8.243.126.131:8000/play/a04x/index.m3u8
 http://8.243.126.131:8000/play/a04o/index.m3u8
 #EXTINF:0,37-CANAL N
 http://8.243.126.131:8000/play/a058/index.m3u8
+#EXTINF:0,37-CANAL N HD
+http://148.222.230.144:8000/play/a036/index.m3u8
+#EXTINF:0,68-LIGA 1 HD
+http://latinostvhd.club:25461/live/6266787880/3f8087cffc/164272.ts
 #EXTINF:0,68-LIGA 1 MAX HD
 http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:0,68-LIGA 1 MAX HDD
-http://148.222.230.144:8000/play/a0do/index.m3u8
-#EXTINF:0,38-MOVISTAR DEPORTES
-http://8.243.126.131:8000/play/a059/index.m3u8
+http://148.222.230.144:8000/play/a0ef/index.m3u8
 #EXTINF:0,38-MOVISTAR DEPORTES HD
-http://190.117.20.39:8000/play/a0ay/index.m3u8
+http://latinostvhd.club:25461/live/6266787880/3f8087cffc/32754.ts
+#EXTINF:0,38-MOVISTAR DEPORTES 1
+http://8.243.126.131:8000/play/a059/index.m3u8
+#EXTINF:0,38-MOVISTAR DEPORTES HD 1
+http://190.117.20.39:8000/play/a0f0/index.m3u8
 #EXTINF:0,39-DIRECTV DEPORTE
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0,39-DIRECTV DEPORTE 2
+http://38.187.3.110:8000/play/a04m/index.m3u8
+#EXTINF:0,39-DIRECTV DEPORTE 2.1
 http://xpaneltv.com:8080/live/AndyTor/648210977/79817.ts
 #EXTINF:0,39-DIRECTV DEPORTE +
 http://redworld.pro:8880/live/Melisa01/W5wXFMwknDcC/428668.ts
@@ -91,20 +99,24 @@ http://8.243.126.131:8000/play/a0h0/index.m3u8
 http://8.243.126.131:8000/play/a0d5/index.m3u8
 #EXTINF:0,ESPN 6HD
 http://8.243.126.131:8000/play/a0kn/index.m3u8
-#EXTINF:0,ESPN HD
+#EXTINF:0,ESPN HD 
+http://148.222.230.144:8000/play/a0dp/index.m3u8
+#EXTINF:0,ESPN HD 1
 http://8.243.126.131:8000/play/a0d2/index.m3u8
-#EXTINF:0,ESPN HD
+#EXTINF:0,ESPN HD 2
 http://8.243.126.131:8000/play/a0kr/index.m3u8
-#EXTINF:0,ESPN Premium HD
-http://8.243.126.131:8000/play/a0ku/index.m3u8
 #EXTINF:0,ESPN Premium HDD
 http://148.222.230.144:8000/play/espp/index.m3u8
+#EXTINF:0,ESPN Premium HD
+http://8.243.126.131:8000/play/a0ku/index.m3u8
 #EXTINF:0,55-ESPN1
 http://8.243.126.131:8000/play/a05q/index.m3u8
-#EXTINF:0,48-ESPN2 HD
-http://8.243.126.131:8000/play/a05j/index.m3u8
-#EXTINF:0,24-ESPN 3 HD
+#EXTINF:0,48-ESPN 2 HD
+http://148.222.230.144:8000/play/a0dy/index.m3u8
+#EXTINF:0,24-ESPN 2 HDD 
 http://8.243.126.131:8000/play/a04v/index.m3u8
+#EXTINF:0,48-ESPN 3 HD
+http://8.243.126.131:8000/play/a05j/index.m3u8
 #EXTINF:0,81-ESPN 5 HD 
 http://8.243.126.131:8000/play/a0jz/index.m3u8
 #EXTINF:0,43-ESPN6 HD
@@ -456,6 +468,8 @@ http://8.243.126.131:8000/play/a0ih/index.m3u8
 #EXTINF:0,Tooncast
 http://8.243.126.131:8000/play/a0g4/index.m3u8
 #EXTINF:0,TyC Sports
+http://latinostvhd.club:25461/live/6266787880/3f8087cffc/29937.ts
+#EXTINF:0,TyC Sports 1
 http://8.243.126.131:8000/play/a02a/index.m3u8
 #EXTINF:0,UNIVERSAL CINEMA ESTE HD
 http://8.243.126.131:8000/play/a0de/index.m3u8
