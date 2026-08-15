@@ -31,12 +31,12 @@ http://179.1.145.73:8049/play/a07n/index.m3u8
 http://190.234.82.52:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="-",ATV
 http://38.252.213.215:8000/play/a01a
-#EXTINF:-1 group-title="-",
-http://179.1.145.73:8049/play/a00a/index.m3u8
 #EXTINF:-1 group-title="-",CANAL H HD
 http://170.79.235.133:8002/play/a00c/index.m3u8
 #EXTINF:-1 group-title="-",CANAL H HDD
 http://177.53.152.117:8000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="-",EXITOSA HD
+http://179.1.145.73:8049/play/a00a/index.m3u8
 #EXTINF:-1 group-title="-",10007 Exitosa HD
 http://179.1.145.73:8049/play/a00a/index.m3u8
 #EXTINF:-1 group-title="-",Exitosa TV
@@ -47,7 +47,7 @@ http://179.1.145.73:8049/play/a006/index.m3u8
 http://38.226.49.253:8000/play/a0gj/index.m3u8
 #EXTINF:-1 group-title="-",Willax HD
 http://179.1.145.73:8049/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",Willax
+#EXTINF:-1 group-title="-",Willax HD+
 http://179.1.145.73:8049/play/a03j/index.m3u8
 #EXTINF:-1 group-title="-",RPP HD
 http://190.234.82.52:8000/play/a0nw/index.m3u8
@@ -67,14 +67,16 @@ http://179.1.145.73:8049/play/a005/index.m3u8
 http://38.226.49.253:8000/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="-",FIVER TV 2
 http://38.226.49.253:8000/play/a0ga/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
+#EXTINF:-1 group-title="-",BETHEL TV HD
 http://179.1.145.73:8049/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
+#EXTINF:-1 group-title="-",BETHEL TV +
 http://38.226.49.253:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
+#EXTINF:-1 group-title="-",BETHEL TV   HD
 http://38.226.49.253:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE TV
 http://38.224.175.2:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",ENLACE TV HD
+http://45.167.2.101:8000/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="-",CANAL LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 #EXTINF:-1 group-title="-",TABER TV
@@ -91,6 +93,16 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="-",ADORAM TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 group-title="-",LA BENDICIÓN HD
+http://45.167.2.101:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="-",DTV HD
+http://45.167.2.101:8000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="-",CARACOL HD
+http://45.89.82.194:9001/play/dfg
+#EXTINF:-1 group-title="-",BETME HD
+http://45.167.2.101:8000/play/a0rx/index.m3u8
+#EXTINF:-1 group-title="-",DISTRITO COMEDIA
+http://45.167.2.101:8000/play/a0rv/index.m3u8
 #EXTINF:-1 group-title="-",APOLO TV
 http://38.226.49.253:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="-",TELERUMBA HD
@@ -111,14 +123,14 @@ http://38.224.175.2:8000/play/a0a5/index.m3u8
 http://38.224.175.2:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-",OVACIÓN TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="-",L1 HD
 http://179.1.145.73:8049/play/a056/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="-",L1 HDD
 http://179.1.145.73:8049/play/a085/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="-",L1 ENCODER
 http://38.226.49.253:8000/play/a0gl/index.m3u8
-#EXTINF:-1 group-title="-",LIGA 1 
-http://38.226.49.253:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-",L1 MAX ENCODER
+http://179.1.145.73:8049/play/a084/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX HD
 http://190.234.82.52:8000/play/a0q8/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX HDD
@@ -131,11 +143,8 @@ http://38.226.49.253:8000/play/a0g4/index.m3u8
 http://38.226.49.253:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX 1.3
 http://179.1.145.73:8049/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1.4
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES HD
 http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:-1 group-title="-",MOVISTAR DEPORTES HDDDD
-http://179.1.145.73:8049/play/a084/index.m3u8
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES
 http://38.226.49.253:8000/play/a0gf/index.m3u8
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES HDD
@@ -148,15 +157,19 @@ http://38.224.175.2:8000/play/a09o/index.m3u8
 http://190.234.82.52:8000/play/c4pn/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS CU
 http://179.1.145.73:8049/play/a07u/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS 2 HD ENCODER
+http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 2 HD
 http://38.224.175.2:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS 2 HD +
+http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+ HD
 http://179.1.145.73:8049/play/a05a/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+
 http://38.224.175.2:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://38.226.49.253:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="-",ESPN HD ENCODER
 http://179.1.145.73:8049/play/a036/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD COL
 http://190.234.82.52:8000/play/a0ok/index.m3u8
@@ -166,16 +179,20 @@ http://190.234.82.52:8000/play/a0ki/index.m3u8
 http://179.1.145.73:8049/play/a01e/index.m3u8
 #EXTINF:-1 group-title="-",ESPN R HD
 http://179.1.145.73:8049/play/a03z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="-",ESPN 2 HD ENCODER
 http://190.234.82.52:8000/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD +
+http://38.224.175.2:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HDD
 http://38.226.49.253:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 CA HD
 http://179.1.145.73:8049/play/a01f/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://179.1.145.73:8049/play/a03u/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="-",ESPN 2 HD A
 http://179.1.145.73:8049/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD A+
+http://45.188.229.33:8000/play/a1ay/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 HD
 http://190.234.82.52:8000/play/a0lm/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 CA HD
@@ -212,16 +229,28 @@ http://190.234.82.52:8000/play/a0l3/index.m3u8
 http://38.226.49.253:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7 HDD
 http://179.1.145.73:8049/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 group-title="-",ESPN Premium HD ENCODER
 http://179.1.145.73:8049/play/a042/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 group-title="-",ESPN Premium HD A
 http://38.226.49.253:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+#EXTINF:-1 group-title="-",TNT SPORTS ARGENTINA
+http://138.121.113.175:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD ENCODER
 http://179.1.145.73:8049/play/a029/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
 http://38.226.49.253:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",ECDF ECU
+http://45.188.229.33:8000/play/a0vx/index.m3u8
+#EXTINF:-1 group-title="-",FOX SPORTS ARG
+http://45.188.229.33:8000/play/a1cp/index.m3u8
+#EXTINF:-1 group-title="-",FOX SPORTS 2 ARG
+http://45.188.229.33:8000/play/a1b1/index.m3u8
+#EXTINF:-1 group-title="-",FOX SPORTS 3 ARG
+http://138.121.113.175:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",TYC SPORTS HD
+http://138.121.113.175:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",TUDN HD
-http://45.167.2.101:8000/play/a0r4
+http://45.167.2.101:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORTS
 http://45.167.2.138:8000/play/a0ql
 #EXTINF:-1 group-title="-",FOX SPORTS 2 MX
@@ -232,18 +261,30 @@ http://45.167.2.138:8000/play/a0qn
 http://179.1.145.73:8049/play/a053/index.m3u8
 #EXTINF:-1 group-title="-",FOX CR
 http://179.1.145.73:8049/play/a051/index.m3u8
+#EXTINF:-1 group-title="-",TIGO SPORTS HD
+http://45.170.130.224:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="-",BEIN SPORTA EXTRA
 http://45.239.31.254:8000/play/a01o
 #EXTINF:-1 group-title="-",SKY SPORTS HD
 http://45.89.82.194:9001/play/trt
-#EXTINF:-1 group-title="-",LA LIGA TV
-http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 group-title="-",DAZN LA LIGA TV
+http://45.89.82.194:9001/play/a0cb
 #EXTINF:-1 group-title="-",EUROSPORT HD
 http://200.115.120.1:8000/play/ca118/index.m3u8
 #EXTINF:-1 group-title="-",EUROSPORT 2 HD
 http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 5 MX
+http://45.89.82.194:9001/play/a02k
 #EXTINF:-1 group-title="-",10011 HBO2
 http://179.1.145.73:8049/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",TELEFUTURO PAR
+http://45.170.130.224:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="-",TV PÚBLICA ARG
+http://45.188.229.33:8000/play/a1b1/index.m3u8
+#EXTINF:-1 group-title="-",EL NUEVE HD
+http://45.188.229.33:8000/play/a1aw/index.m3u8
+#EXTINF:-1 group-title="-",EL TRECE HD
+http://45.188.229.33:8000/play/a1dk/index.m3u8
 #EXTINF:-1 group-title="-",1024 CTC HD
 http://179.1.145.73:8049/play/a05r/index.m3u8
 #EXTINF:-1 group-title="-",25.1 CuscoPlay
@@ -642,5 +683,10 @@ http://38.226.49.253:8000/play/a0cr/index.m3u8
 http://38.226.49.253:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://38.226.49.253:8000/play/a061/index.m3u8
-
+#EXTINF:-1 group-title="-",PROGRAMACIÓN
+http://190.234.82.52:8000/play/a0kn/index.m3u8
+#EXTINF:-1 group-title="-",NATURE TIME
+http://45.239.31.254:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",PITUFO TV
+http://45.239.31.254:8000/play/a001/index.m3u8
 
