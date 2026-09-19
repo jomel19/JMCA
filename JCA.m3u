@@ -98,7 +98,7 @@ http://45.167.2.101:8000/play/a0s2/index.m3u8
 #EXTINF:-1 group-title="-",DTV HD
 http://45.167.2.101:8000/play/a0sa/index.m3u8
 #EXTINF:-1 group-title="-",CARACOL HD
-http://45.89.82.194:9001/play/dfg
+http://45.173.12.70:8000/play/a0fa
 #EXTINF:-1 group-title="-",BETME HD
 http://45.167.2.101:8000/play/a0rx/index.m3u8
 #EXTINF:-1 group-title="-",DISTRITO COMEDIA
