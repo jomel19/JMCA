@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",10001 Latina HD
-http://179.1.145.73:8049/play/a07k/index.m3u8
-#EXTINF:-1 group-title="-",10001 Latina HDD
-http://190.234.82.52:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="-",Latina HD
+http://179.1.145.73:8049/play/a07k/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD 1
+http://190.234.82.52:8000/play/a0np/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD 2
 http://179.1.145.73:8049/play/a03b/index.m3u8
-#EXTINF:-1 group-title="-",10002 America HD
-http://179.1.145.73:8049/play/a001/index.m3u8
 #EXTINF:-1 group-title="-",America HD
+http://179.1.145.73:8049/play/a001/index.m3u8
+#EXTINF:-1 group-title="-",America HD 1
 http://179.1.145.73:8049/play/a03a/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
+#EXTINF:-1 group-title="-",America TV HD 2
 http://38.226.49.253:8000/play/a07q/index.m3u8
 #EXTINF:-1 group-title="-",PANAMERICANA HD
 http://179.1.145.73:8049/play/a02y/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana HD A
+#EXTINF:-1 group-title="-",Panamericana HD 1
 http://179.1.145.73:8049/play/a07m/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana
+#EXTINF:-1 group-title="-",Panamericana HD 2
 http://38.226.49.253:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana HD
+#EXTINF:-1 group-title="-",Panamericana HD 3
 http://190.234.82.52:8000/play/a0nq/index.m3u8
 #EXTINF:-1 group-title="-",TV Peru HD
 http://190.234.82.52:8000/play/a0nr/index.m3u8
@@ -37,9 +37,9 @@ http://170.79.235.133:8002/play/a00c/index.m3u8
 http://177.53.152.117:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="-",EXITOSA HD
 http://179.1.145.73:8049/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",10007 Exitosa HD
+#EXTINF:-1 group-title="-",Exitosa HD
 http://179.1.145.73:8049/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",Exitosa TV
+#EXTINF:-1 group-title="-",Exitosa TV HD
 http://179.1.145.73:8049/play/a03i/index.m3u8
 #EXTINF:-1 group-title="-",10009 ATV+ Noticias
 http://179.1.145.73:8049/play/a006/index.m3u8
@@ -76,7 +76,7 @@ http://38.226.49.253:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE TV
 http://38.224.175.2:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE TV HD
-http://45.167.2.101:8000/play/a0s8/index.m3u8
+http://45.170.130.224:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="-",CANAL LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 #EXTINF:-1 group-title="-",TABER TV
@@ -105,22 +105,6 @@ http://45.167.2.101:8000/play/a0rx/index.m3u8
 http://45.167.2.101:8000/play/a0rv/index.m3u8
 #EXTINF:-1 group-title="-",APOLO TV
 http://38.226.49.253:8000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="-",TELERUMBA HD
-http://38.224.175.2:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="-",CNH HUANUCO
-http://38.224.175.2:8000/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="-",MEGA TV PASCO
-http://38.224.175.2:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="-",TV ORION HD
-http://38.224.175.2:8000/play/a0nh/index.m3u8
-#EXTINF:-1 group-title="-", URANIO TV
-http://38.224.175.2:8000/play/a0kn/index.m3u8
-#EXTINF:-1 group-title="-",CGTN HD
-http://38.224.175.2:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="-",CONECTADOS TV HD
-http://38.224.175.2:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="-",CORPORACIÓN TV
-http://38.224.175.2:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-",OVACIÓN TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="-",L1 HD
@@ -143,6 +127,8 @@ http://38.226.49.253:8000/play/a0g4/index.m3u8
 http://38.226.49.253:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX 1.3
 http://179.1.145.73:8049/play/a03w/index.m3u8
+#EXTINF:-1 group-title="-",L1 MAX 1.4 F
+http://190.119.168.226:4000/play/a0fx/index.m3u8
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES HD
 http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES
@@ -265,16 +251,10 @@ http://179.1.145.73:8049/play/a051/index.m3u8
 http://45.170.130.224:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="-",BEIN SPORTA EXTRA
 http://45.239.31.254:8000/play/a01o
-#EXTINF:-1 group-title="-",SKY SPORTS HD
-http://45.89.82.194:9001/play/trt
-#EXTINF:-1 group-title="-",DAZN LA LIGA TV
-http://45.89.82.194:9001/play/a0cb
 #EXTINF:-1 group-title="-",EUROSPORT HD
 http://200.115.120.1:8000/play/ca118/index.m3u8
 #EXTINF:-1 group-title="-",EUROSPORT 2 HD
 http://200.115.120.1:8000/play/ca119/index.m3u8
-#EXTINF:-1 group-title="-",CANAL 5 MX
-http://45.89.82.194:9001/play/a02k
 #EXTINF:-1 group-title="-",10011 HBO2
 http://179.1.145.73:8049/play/a008/index.m3u8
 #EXTINF:-1 group-title="-",TELEFUTURO PAR
